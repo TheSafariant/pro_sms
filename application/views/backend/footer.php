@@ -1,0 +1,1 @@
+<footer class="footer text-center"> 2018 &copy; The Safariant Technologies - Shule Yetu</footer>
